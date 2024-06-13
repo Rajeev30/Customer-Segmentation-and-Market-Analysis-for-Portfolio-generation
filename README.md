@@ -25,7 +25,7 @@ Matching portfolios with Maximum Utility for each Customer Segment
 - kmeans.pkl
 - QT_age.pkl
 - QT_balance.pkl
-- requirements.txt
+- requirements.txt "/FinalModel/Clustering/requirements.txt"
 - main.py
 
 ## Running the web Application
