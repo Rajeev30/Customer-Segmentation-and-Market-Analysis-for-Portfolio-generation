@@ -35,10 +35,3 @@ Matching portfolios with Maximum Utility for each Customer Segment
 - Run "streamlit run main.py" to run the streamlit app
 
 
-## Contributors
-- Vijay 
-- Dhaarini
-- Prachet
-- Pushkar
-- Abrar
-- Sanskriti 
